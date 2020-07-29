@@ -1,0 +1,10 @@
+[M::mm_idx_gen::5.053*1.36] collected minimizers
+[M::mm_idx_gen::5.501*1.78] sorted minimizers
+[M::main::5.501*1.78] loaded/built the index for 9 target sequence(s)
+[M::mm_mapopt_update::5.878*1.73] mid_occ = 103
+[M::mm_idx_stat] kmer size: 19; skip: 19; is_hpc: 0; #seq: 9
+[M::mm_idx_stat::6.204*1.69] distinct minimizers: 13277762 (90.79% are singletons); average occurrences: 1.324; average spacing: 11.157
+[M::worker_pipeline::10.234*3.63] mapped 1675 sequences
+[M::main] Version: 2.17-r941
+[M::main] CMD: minimap2 -x asm5 -t 8 /srv/kenlab/stefan/assembly_mapping/assemblies/Alyrata_384_v1_only1-9.fa /srv/kenlab/stefan/assembly_mapping/assemblies/Alyr_v2_2.fa
+[M::main] Real time: 10.311 sec; CPU: 37.256 sec; Peak RSS: 1.429 GB
