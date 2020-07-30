@@ -9,3 +9,12 @@ Since a couple of years, many shortcomings of our assemblies became clearer. Onc
  * Run `conda create env -f envs/mappers.yaml -n mappers` to create a Conda environment with (almost) everything we need
  * Clone the `RagTag` github repository: `git clone https://github.com/malonge/RagTag.git`
  * Activate `mappers` via `conda activate mappers` and install `RagTag` via `python setup.py install` (within the `RagTag` folder) 
+
+# To start
+
+First activate `mappers` via `conda activate mappers`, then to run all analyses use:
+
+```
+sh scripts/minimap.sh
+sh scripts/mummer.sh
+```
