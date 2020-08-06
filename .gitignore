@@ -5,13 +5,22 @@ assemblies/Ahal_v2_2.fa.fai
 assemblies/Alyr_v2_2.fa
 assemblies/Alyr_v2_2.fa.fai
 assemblies/Alyrata_384_v1_only1-8.fa
+assemblies/Ahal_v2_2.dict
+assemblies/Alyr_v2_2.dict
+
 
 # results from RagTag
 
 mapping/Alyr/minimap2/*
 mapping/Ahal/minimap2/*
+mapping/Alyr/mummer/*
+mapping/Ahal/mummer/*
+mapping/Alyr/lastal/*
+mapping/Ahal/lastal/*
 
+# Db files form last
 
-
+assemblies/AhalDb*
+assemblies/AlyrDb*
 
 
