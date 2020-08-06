@@ -12,7 +12,7 @@ Since a couple of years, many shortcomings of our assemblies became clearer. Onc
 
 # To start
 
-First activate `mappers` via `conda activate mappers`, then to run all analyses use:
+First activate `mappers` via `conda activate mappers`, then to run all analyses please stay on the `RemappingAssemblies/` folder and use:
 
 ```
 sh scripts/minimap.sh
