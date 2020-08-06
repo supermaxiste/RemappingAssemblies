@@ -17,4 +17,5 @@ First activate `mappers` via `conda activate mappers`, then to run all analyses 
 ```
 sh scripts/minimap.sh
 sh scripts/mummer.sh
+sh scripts/lastal.sh
 ```
