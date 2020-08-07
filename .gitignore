@@ -18,9 +18,8 @@ mapping/Ahal/mummer/*
 mapping/Alyr/lastal/*
 mapping/Ahal/lastal/*
 
-# Db files form last
+# Db files from last
 
-assemblies/AhalDb*
-assemblies/AlyrDb*
+assemblies/JGIDb*
 
 
