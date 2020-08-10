@@ -19,3 +19,6 @@ sh scripts/minimap.sh
 sh scripts/mummer.sh
 sh scripts/lastal.sh
 ```
+# Results
+
+ In the `results` folder, for each method and each assembly, there is a `txt` file with different scores for each contig of our assembly. Another `agp` file provides information about the inferred location in the JGI assembly.
